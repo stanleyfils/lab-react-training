@@ -1,5 +1,11 @@
 import React, { Component } from 'react';
 
+// Iteration 2: Component: Greetings
+// Create a Greetings component with 2 props:
+
+// lang: A string that could be ,"de","en","es","fr"
+// children: A text
+
 const greeting = {
 	de: 'Hallo',
 	en: 'Hello',
